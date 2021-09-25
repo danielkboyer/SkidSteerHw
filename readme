@@ -1,0 +1,5 @@
+Switching to the Swedish wheels, I no longer have to rotate the robot when turning, also, since the robot can
+move in any direction it is very easy to cover a path. There could be a lot of problems implementing my commands onto a real
+robot. For example, the robot could slip on the surface resulting in the rest of my commands being off my that amount of slip. The motor
+could run for a millesecond too long also resulting in a larger error in the later commands. Without some sort of vision, it's very hard for 
+a robot to stay on track without adjustments. 
